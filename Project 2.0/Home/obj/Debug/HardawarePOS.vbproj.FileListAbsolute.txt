@@ -1,0 +1,1096 @@
+I:\NewProject\NewHardwareManagement\Home\Home\bin\Debug\Home.exe.config
+I:\NewProject\NewHardwareManagement\Home\Home\bin\Debug\Home.exe
+I:\NewProject\NewHardwareManagement\Home\Home\bin\Debug\Home.pdb
+I:\NewProject\NewHardwareManagement\Home\Home\bin\Debug\Home.xml
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.About.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Cashier.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Category.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Credit_Entry.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.HomeN.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Invoice.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Loading.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Login.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Manageitems.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.MLocation.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Customer.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Resources.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Items.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Profile.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Purchase.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Supplier.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Reports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.exe
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.xml
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.pdb
+H:\My Works\Soft\NewHardwareManagement\Home\Home\bin\Debug\Home.exe.config
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.exe
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.xml
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.pdb
+H:\My Works\Soft\NewHardwareManagement\Home\Home\bin\Debug\Home.exe
+H:\My Works\Soft\NewHardwareManagement\Home\Home\bin\Debug\Home.pdb
+H:\My Works\Soft\NewHardwareManagement\Home\Home\bin\Debug\Home.xml
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.About.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Cashier.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Category.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Credit_Entry.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.HomeN.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Invoice.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Loading.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Login.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Manageitems.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.MLocation.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Customer.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Resources.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Items.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Profile.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Purchase.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Supplier.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Reports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+H:\My Works\Soft\NewHardwareManagement\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe.config
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.exe
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.xml
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.pdb
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.pdb
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.xml
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.About.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankdetails.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Cashier.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Category.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Credit_Entry.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Dailyreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Databasebackup.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.ExpiredReports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Expiremediciene.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.HomeN.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Invoice.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Loading.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Login.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecategory.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecustomers.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageinvoice.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageitems.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managepurchase.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managereturn.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managesupplers.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.MLocation.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Monthlyreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstock.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.AddLocation.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Customer.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Resources.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Items.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Barcodeprint.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstockreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Profile.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchase.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchasereturn.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reportviewer.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Supplier.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.UsersProfile.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Yearlyreports.resources
+H:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe.config
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.exe
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.xml
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.pdb
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.pdb
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.xml
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.About.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankdetails.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Cashier.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Category.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Credit_Entry.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Dailyreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Databasebackup.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.ExpiredReports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Expiremediciene.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.HomeN.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Invoice.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Loading.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Login.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecategory.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecustomers.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageinvoice.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageitems.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managepurchase.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managereturn.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managesupplers.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.MLocation.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Monthlyreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstock.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.AddLocation.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Customer.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Resources.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Items.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Barcodeprint.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstockreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Profile.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchase.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchasereturn.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reportviewer.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Supplier.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.UsersProfile.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Yearlyreports.resources
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+J:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Department.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe.config
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.exe
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.xml
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.pdb
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.About.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Bankreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Cashier.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Category.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Credit_Entry.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Dailyreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Daily_Expenses.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Department.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.ExpiredReports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.HomeN.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Invoice.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Loading.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Login.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Manageitems.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managereturn.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.MLocation.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Monthlyreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Customer.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Resources.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Items.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Outofstockreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Profile.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchase.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Supplier.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Reports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.Yearlyreports.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.exe
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.pdb
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\bin\Debug\Home.xml
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.ReportDaily.resources
+I:\My Works\Soft\NewPosNayanaFashion\Home\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Home.exe.config
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.exe
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.xml
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.pdb
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.About.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Bankdetails.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Bankreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Cashier.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Category.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Credit_Entry.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Dailyreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Daily_Expenses.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Databasebackup.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Department.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.ExpiredReports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Expiremediciene.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.ReportDaily.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.HomeN.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Invoice.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Loading.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Login.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Managecategory.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Managecustomers.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Manageinvoice.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Manageitems.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Managepurchase.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Managereturn.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Managesupplers.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.MLocation.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Monthlyreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Outofstock.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.AddLocation.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Customer.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Resources.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Items.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Barcodeprint.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Outofstockreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Profile.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Purchase.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Purchasereturn.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Reportviewer.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Supplier.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Reports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.UsersProfile.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Yearlyreports.resources
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Home.exe
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Home.pdb
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Home.xml
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.Web.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\AxShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\ShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\stdole.dll
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+F:\My Developments\Sahan Project\Home\Home\bin\Debug\Reports\Dept_wise_sale.vb
+F:\My Developments\Sahan Project\Home\Home\obj\Debug\Home.Report_viewer.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Home.exe.config
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.exe
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.xml
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.pdb
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Reports\Dept_wise_sale.vb
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Home.exe
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Home.pdb
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\Home.xml
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.Web.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\AxShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\ShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\bin\Debug\stdole.dll
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.About.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Bankdetails.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Bankreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Cashier.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Category.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Credit_Entry.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Dailyreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Daily_Expenses.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Databasebackup.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Department.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.ExpiredReports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Expiremediciene.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.ReportDaily.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Report_viewer.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.RestoreDatabase.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.HomeN.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Invoice.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Loading.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Login.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Lossprofitreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Managecategory.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Managecustomers.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Manageinvoice.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Manageitems.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Managepurchase.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Managereturn.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Managesupplers.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.MLocation.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Monthlyreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Outofstock.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.AddLocation.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Customer.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Resources.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Items.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Barcodeprint.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Outofstockreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Profile.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Purchase.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Purchasereturn.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Reportviewer.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Supplier.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Reports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.UsersProfile.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\Home.Yearlyreports.resources
+F:\My Developments\Sahan Project\Home_daily sale\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\FlashControlV71.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\stdole.dll
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojAssemblyReference.cache
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.cache
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.CoreCompileInputs.cache
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.CopyComplete
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+J:\My Works\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\stdole.dll
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojAssemblyReference.cache
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.cache
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.CoreCompileInputs.cache
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.CopyComplete
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+I:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+H:\My Works\Soft\Sahan Project\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+J:\My Works\Soft\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\stdole.dll
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+C:\Users\madub\Desktop\P1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\stdole.dll
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+C:\Users\madub\Desktop\P1\K1\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe.config
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.exe
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.xml
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.pdb
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.exe
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.pdb
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\Home.xml
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\stdole.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.About.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Category.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Department.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Loading.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Login.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Customer.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Resources.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Items.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Profile.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Reports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.Goods_Receive.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.GRN_Report.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\obj\Debug\Home.ReturnToSupplier.resources
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\MetroFramework.Design.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\MetroFramework.dll
+F:\My Developments\Sahan Project\Kasun Aiyya System\Home_Developed\Home_Developed\Home\bin\Debug\MetroFramework.Fonts.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Home.exe.config
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.exe
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.xml
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.pdb
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Reports\Dept_wise_sale.vb
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Home.exe
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Home.pdb
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\Home.xml
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\MetroFramework.Design.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\MetroFramework.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\MetroFramework.Fonts.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.Web.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\AxShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\ShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\bin\Debug\stdole.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\HardawarePOS.vbprojResolveAssemblyReference.cache
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.About.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Bankdetails.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Bankreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Cashier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Category.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Credit_Entry.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Dailyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Daily_Expenses.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Databasebackup.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Department.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.ExpiredReports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Expiremediciene.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Goods_Receive.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.GRN_Report.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.ReturnToSupplier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.ReportDaily.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Report_viewer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.RestoreDatabase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.HomeN.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Invoice.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Loading.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Login.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Lossprofitreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Managecategory.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Managecustomers.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Manageinvoice.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Manageitems.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Managepurchase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Managereturn.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Managesupplers.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.MLocation.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Monthlyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Outofstock.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.AddLocation.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Customer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Resources.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Items.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Barcodeprint.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Outofstockreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Profile.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Purchase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Purchasereturn.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Reportviewer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Supplier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Reports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.UsersProfile.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\Home.Yearlyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Home_Developed\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Reports\Dept_wise_sale.rpt
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Reports\Dept_wise_sale.vb
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Home.exe.config
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Home.exe
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Home.pdb
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Home.xml
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.Shared.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\Guna.UI.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\MetroFramework.Design.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\MetroFramework.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\MetroFramework.Fonts.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.Web.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\AxShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\ShockwaveFlashObjects.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\bin\Debug\stdole.dll
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.About.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Bankdetails.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Bankreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Cashier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Category.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Credit_Entry.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Dailyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Daily_Expenses.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Databasebackup.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Department.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.ExpiredReports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Expiremediciene.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Goods_Receive.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.GRN_Report.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.ReturnToSupplier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.frm_invoice.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.ReportDaily.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.reportsales.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Report_viewer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.RestoreDatabase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.HomeN.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Invoice.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Loading.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Login.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Lossprofitreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Managecategory.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Managecustomers.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Manageinvoice.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Manageitems.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Managepurchase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Managereturn.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Managesupplers.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.MLocation.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Monthlyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Outofstock.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.AddLocation.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Customer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Resources.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Items.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Barcodeprint.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Outofstockreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Profile.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Purchase.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Purchasereturn.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Reportviewer.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Supplier.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Reports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.UsersProfile.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Yearlyreports.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\HardawarePOS.vbproj.GenerateResource.Cache
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.exe
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.xml
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.pdb
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.Frm_cancel_order.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.frm_report_sum.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.frm_report_detail.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.frm_Settlement.resources
+F:\My Developments\Sahan Project\Bopagama POS System\Full Customization\Home\obj\Debug\Home.frm_Statement.resources

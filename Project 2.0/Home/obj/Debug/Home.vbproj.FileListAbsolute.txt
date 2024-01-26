@@ -1,0 +1,23 @@
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\bin\Debug\Home.exe
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\bin\Debug\Home.pdb
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\bin\Debug\Home.xml
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Managemediciens.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.RNewInvoice.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.vbproj.GenerateResource.Cache
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.exe
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.xml
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.pdb
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Manageaccount.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.RNewcustomer.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.RNewmediceine.resources
+F:\Works\My\Soft\Vb\PharmacyManagement\Home\Home\obj\Debug\Home.RNewpurchase.resources
+I:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.exe
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.xml
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.pdb

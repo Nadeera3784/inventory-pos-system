@@ -1,0 +1,270 @@
+I:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.exe
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.xml
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.pdb
+I:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.exe
+I:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.pdb
+I:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.xml
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.HomeN.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Login.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managemediciens.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Invoice.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.MLocation.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Customer.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Purchase.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Supplier.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Medicine.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Category.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Profile.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Reports.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Loading.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.About.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Cashier.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbprojResolveAssemblyReference.cache
+I:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+F:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.exe
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.xml
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.pdb
+F:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.exe
+F:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.pdb
+F:\New folder\PharmacyManagement\Home\Home\bin\Debug\Home.xml
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbprojResolveAssemblyReference.cache
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.About.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Cashier.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Category.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.HomeN.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Invoice.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Loading.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Login.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managemediciens.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.MLocation.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Customer.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Medicine.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Profile.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Purchase.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Supplier.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.Reports.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+F:\New folder\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\NewProject\PharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.exe
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.xml
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.pdb
+I:\NewProject\PharmacyManagement\Home\Home\bin\Debug\Home.exe
+I:\NewProject\PharmacyManagement\Home\Home\bin\Debug\Home.pdb
+I:\NewProject\PharmacyManagement\Home\Home\bin\Debug\Home.xml
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbprojResolveAssemblyReference.cache
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.About.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Cashier.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Category.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.HomeN.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Invoice.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Loading.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Login.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managemediciens.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.MLocation.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Customer.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Medicine.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Profile.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Purchase.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Supplier.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Reports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+I:\NewProject\PharmacyManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+I:\NewProject\InventryManagement\Home\Home\bin\Debug\Home.exe.config
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.exe
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.xml
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.pdb
+I:\NewProject\InventryManagement\Home\Home\bin\Debug\Home.exe
+I:\NewProject\InventryManagement\Home\Home\bin\Debug\Home.pdb
+I:\NewProject\InventryManagement\Home\Home\bin\Debug\Home.xml
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.About.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Cashier.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Category.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.HomeN.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Invoice.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Loading.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Login.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.MLocation.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Customer.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Resources.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Profile.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Purchase.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Supplier.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Reports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Manageitems.resources
+I:\NewProject\InventryManagement\Home\Home\obj\Debug\Home.Items.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.exe
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.xml
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.pdb
+I:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.exe
+I:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.pdb
+I:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.xml
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.About.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Cashier.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Category.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.HomeN.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Invoice.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Loading.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Login.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Manageitems.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.MLocation.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Customer.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Items.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Profile.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Purchase.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Supplier.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Reports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.exe.config
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.exe
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.xml
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.pdb
+H:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.exe
+H:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.pdb
+H:\NewProject\NewPharmacyManagement\Home\Home\bin\Debug\Home.xml
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbprojResolveAssemblyReference.cache
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.About.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Bankdetails.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Bankreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Cashier.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Category.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Dailyreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Databasebackup.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.ExpiredReports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Expiremediciene.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.HomeN.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Invoice.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Loading.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Login.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Lossprofitreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managecategory.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managecustomers.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Manageinvoice.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Manageitems.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managepurchase.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managereturn.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Managesupplers.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.MLocation.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Monthlyreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Outofstock.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.AddLocation.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Customer.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Resources.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Items.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Barcodeprint.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Outofstockreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Profile.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Purchase.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Purchasereturn.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Reportviewer.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Supplier.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Reports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.UsersProfile.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Yearlyreports.resources
+H:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\PharmacyPOS.vbproj.GenerateResource.Cache
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.Credit_Entry.resources
+I:\NewProject\NewPharmacyManagement\Home\Home\obj\Debug\Home.RestoreDatabase.resources
+I:\NewProject\NewHardwareManagement\Home\Home\bin\Debug\Home.exe.config
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.exe
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.xml
+I:\NewProject\NewHardwareManagement\Home\Home\obj\Debug\Home.pdb
